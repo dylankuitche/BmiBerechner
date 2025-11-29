@@ -1,8 +1,3 @@
-# BmiBerechner
-Parfait Dylan — je te prépare **un README professionnel**, clair, propre, prêt à être copié-collé dans ton GitHub.
-Tu n’as rien à faire, je te livre un document nickel.
-
----
 
 # ✅ **README.md – BMI & Körperfett Rechner (Java GUI Projekt)**
 
@@ -24,18 +19,7 @@ Das Projekt wurde mit **Java Swing** entwickelt und ist vollständig kompatibel 
 - ✔ Fehlermeldungen bei ungültigen Eingaben  
 - ✔ Saubere Trennung zwischen Logik und GUI
 
----
 
-## 📂 Projektstruktur
-
-```text
-/src
- ├── gui
- │     └── Hauptfenster.java       # Die vollständige GUI
- ├── model
- │     └── Rechner.java            # BMI- und Körperfett-Formeln
- └── Main.java                     # Einstiegspunkt
-````
 
 ---
 
@@ -55,7 +39,7 @@ Das Projekt wurde mit **Java Swing** entwickelt und ist vollständig kompatibel 
 1. Projekt herunterladen oder klonen:
 
    ```bash
-   git clone https://github.com/DEIN_USERNAME/BMI-Rechner.git
+   git clone https://github.com/dylankuitche/BMI-Rechner.git
    ```
 2. IDE öffnen
 3. Sicherstellen, dass das Projekt ein JDK verwendet
