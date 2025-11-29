@@ -19,7 +19,7 @@ Das Projekt wurde mit **Java Swing** entwickelt und ist vollständig kompatibel 
 - ✔ Fehlermeldungen bei ungültigen Eingaben  
 - ✔ Saubere Trennung zwischen Logik und GUI
 
-
+````
 
 ---
 
