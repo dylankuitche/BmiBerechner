@@ -84,17 +84,7 @@ KFA = 495 / (1.29579 - 0.35004 \cdot \log10(Taille + Hüfte - Hals) + 0.22100 \c
 
 ---
 
-## 🖼 Screenshot (Beispiel)
+## 🖼 Screenshot 
 
-*(Hier kannst du später ein Bild deiner App einfügen)*
-
----
-
-## 📄 Lizenz
-
-Dieses Projekt ist **frei nutzbar** für Bewerbungen, GitHub-Projekte und Lernzwecke.
-
----
-
-
+<img width="871" height="893" alt="Capture d&#39;écran 2025-12-18 135109" src="https://github.com/user-attachments/assets/59405696-6206-43dd-a1ae-1747bb22ee9f" />
 
